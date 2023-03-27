@@ -1,7 +1,6 @@
 title: 玉米虫🌐💻
 description: 这是来自于我的个人分享💡💡💡
-theme: just-the-docs
-
+remote_theme: pmarsceill/just-the-docs
 url: https://owl38383.github.io
 
 aux_links:
