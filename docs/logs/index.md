@@ -1,5 +1,5 @@
 ---
-title: 软件地址分享
+title: 日常问题记录
 layout: default
 nav_order: 2
 has_children: true
