@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "562901927d2c84c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9c22248180473d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0646abc6f31f5e5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/常用软件激活.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1334d830f28dfc3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "85bea2f96c28f131",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe1affbb1d892c95",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c19f64743448734d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3ccd03f54fd74052",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cdee0e111d328f1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfab3130ad9ca88f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97423e9542527340",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/常用软件激活.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f5e01fc908f8932b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/常用软件激活.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e79acb38aa319f91",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0b130d1eb9d2035f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/常用软件激活.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "fe1affbb1d892c95",
+  "lastOpenFiles": [
+    "other/index.md",
+    "other/开发工具.md",
+    "docs/常用软件激活.md",
+    "docs/代理搭建.md",
+    "docs/记一次磁盘占用排查.md",
+    "vps/CloudCone - 美国洛杉矶高性价比便宜 VPS 最新优惠活动.md",
+    "vps/index.md",
+    "docs/win10 系统文件修复.md",
+    "docs/PicList + Obsidian + GitHub 使用.md",
+    "docs/Nginx反代之后网站ws协议无法连接问题.md",
+    "docs/Linux 文件查找命令.md",
+    "docs/linux 环境安装.md",
+    "docs/idea 无限试用激活版.md",
+    "docs/Docker 使用mysqldump 备份数据库 加入linux定时之后失败问题.md",
+    "docs/抓包工具汇总.md",
+    "docs/青龙使用事项.md",
+    "docs/会用到的软件地址.md"
+  ]
+}
