@@ -1,10 +1,14 @@
 ---
 layout: default
 title: CloudCone - 美国洛杉矶高性价比便宜 VPS 最新优惠活动
-parent: VPS推荐
+createDate: 2023-04-14 11:14
+LastModifDate: 2023-04-23 13:10
+profileName: aquiver
+parent: vps
 nav_order: 4
 ---
 
+[一键搭建脚本合集](日常问题记录/代码编程/一键搭建脚本合集.md)
 ## [CloudCone](https://app.cloudcone.com.cn/?ref=9561) 简介
 
 [CloudCone](https://app.cloudcone.com.cn/?ref=9561) 成立于 2017 年，美国注册公司 (怀俄明州 2017-000753144)。主营美国洛杉矶 Mul­ta­Com 机房的云服务器 / VPS、独立服务器、电子邮件托管等业务。VPS 基于 KVM 虚拟，采用自行研发的控制面板。其所在的 Mul­ta­Com 机房采用动态路由网络，会根据不同网络状态调整线路，很多地区的电信网络会走 CN2 线路，因此延迟和稳定性都较为优秀。同时该主机商提供了按秒计费、随删随用、定期备份服务。支持**支付宝**、Pay­pal、信用卡等方式付款。
