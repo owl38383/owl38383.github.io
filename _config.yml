@@ -2,6 +2,8 @@ title: 楚失弓🌐💻
 description: 这是来自于我的个人分享💡💡💡
 remote_theme: pmarsceill/just-the-docs
 url: https://owl38383.github.io
+color_scheme: dark
+
 
 aux_links:
   仓库地址: https://github.com/owl38383
@@ -14,6 +16,7 @@ aux_links_new_tab: true
 #导航链接的排序顺序
 # nav_sort: case_insensitive # 默认，相当于nil
 nav_sort : case_sensitive #大写字母排在小写字母之前
+enable_copy_code_button: true
 
 # Back to top link
 back_to_top: true
